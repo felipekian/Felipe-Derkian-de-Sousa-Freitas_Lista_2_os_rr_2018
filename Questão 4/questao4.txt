@@ -1,0 +1,6 @@
+Felipe Derkian de Sousa Freitas
+
+Ao entrar informe a opcao desejada que no caso é 1. informe a quantidade de tarefas a serem add. caso queira add mais tarefas coloque 'S'.
+informe a qtd novamente e informe a tarefa. cada tarefa não pode ter espaços em branco.
+
+na opcao 2 ele imprime todas as opcoes inseridas e remove em seguida.
