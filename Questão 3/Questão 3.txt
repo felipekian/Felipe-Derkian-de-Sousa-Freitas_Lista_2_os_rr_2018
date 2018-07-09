@@ -1,0 +1,13 @@
+Feito por: Felipe Derkian de Sousa Freitas - 1201424418
+
+
+Criar um programa em C usando threads que imprime todos os numeros primos de 0 ate 99999.
+
+método de desenvolvimento:
+  Foram criados 4 threads para dividir o trabalho entre os 4. cada thread ficando com 25000 números para verificação.  
+
+Teste:
+    Foi colocado para rodar e ficou tudo certo.
+    
+Compilação no Linux Mint:
+    gcc -pthread cod.c -o cod
